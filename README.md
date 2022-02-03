@@ -1,9 +1,9 @@
-## Hi <img src="images/Hi.gif" width="20"> 
+###   Hi <img src="images/Hi.gif" width="20"> 
 
-- 🔭 I’m currently working as a freelancer. <img src="images/FREELANCER.png" width="70"> 
-- 👯 Develop Front End Interactive face.
-- ✍️ Write clean and readable.
-- 🤔 Learn New Things Every day.
+- 🔭 I’m Currently Working As a <img src="images/FREELANCER.png" width="60"> .
+- 💻 Develop Front End Interactive Face.
+- 📝 Write Clean And Readable Code.
+- 🎓 Learn New Things Every Day.
 
 ### 🛠 Technologies & Tools
 
