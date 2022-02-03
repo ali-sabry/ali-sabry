@@ -1,14 +1,14 @@
 ## Hi <img src="images/Hi.gif" width="20"> 
 
-- 🔭 I’m currently working as a freelancer.
+- 🔭 I’m currently working as a freelancer. ![Freelancer](images/FREELANCER.png)
 - 👯 Develop Front End Interactive face.
 - ✍️ Write clean and readable.
 - 🤔 Learn New Things Every day.
 
 ### 🛠 Technologies & Tools
 
-![html5](images/HTML5.png) ![css3](images/CSS3.png) ![Bootstrap](images/BOOTSTRAP.png)  ![TypeScript](images/TYPESCRIPT.png) 
-![javascript](images/JAVASCRIPT.png) ![Jquery](images/JQUERY.png) ![React](images/REACT.png)
+![html5](images/HTML5.png) ![css3](images/CSS3.png) ![Bootstrap](images/BOOTSTRAP.png) ![javascript](images/JAVASCRIPT.png) 
+![Jquery](images/JQUERY.png) ![React](images/REACT.png)  ![TypeScript](images/TYPESCRIPT.png)
 ![Git](images/GITV.png)  ![Github](images/GITHUB.png)  ![NPM](images/NPM.png)
 ![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png)
 
