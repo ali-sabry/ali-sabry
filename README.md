@@ -7,18 +7,18 @@
 
 ### 🛠 Technologies & Tools
 
-![html5](images/HTML5.png) ![css3](images/CSS3.png) ![Bootstrap](images/BOOTSTRAP.png)  ![TypeScript](images/TYPESCRIPT.png) 
-![javascript](images/JAVASCRIPT.png) ![Jquery](images/JQUERY.png) ![React](images/REACT.png)
-![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png) ![NPM](images/NPM.png)
-![Git](images/GITV.png)  ![Github](images/GITHUB.png)
+![html5](images/HTML5.png#thumbnail) ![css3](images/CSS3.png#thumbnail) ![Bootstrap](images/BOOTSTRAP.png#thumbnail)  ![TypeScript](images/TYPESCRIPT.png#thumbnail) 
+![javascript](images/JAVASCRIPT.png#thumbnail) ![Jquery](images/JQUERY.png#thumbnail) ![React](images/REACT.png#thumbnail)
+![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png#thumbnail) ![NPM](images/NPM.png#thumbnail)
+![Git](images/GITV.png#thumbnail)  ![Github](images/GITHUB.png#thumbnail)
 
 ### 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/ali-sabry/" traget="_blank">
+<a href="https://www.linkedin.com/in/ali-sabry/" target="_blank">
 <img src="images/LINKEDIN.png">
 </a>
 
-<a href="https://www.twitter.com/" traget="_blank">
+<a href="https://www.twitter.com/" target="_blank">
 <img src="images/TWITTER.png">
 </a>
 
