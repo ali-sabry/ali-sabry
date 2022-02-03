@@ -1,6 +1,6 @@
 ## Hi <img src="images/Hi.gif" width="20"> 
 
-- 🔭 I’m currently working as a freelancer. <img src="images/FREELANCER.png" width="35"> 
+- 🔭 I’m currently working as a freelancer. <img src="images/FREELANCER.png" width="70"> 
 - 👯 Develop Front End Interactive face.
 - ✍️ Write clean and readable.
 - 🤔 Learn New Things Every day.
