@@ -8,7 +8,9 @@
 ### 🛠 Technologies & Tools
 #
 ![html5](images/HTML5.png) ![css3](images/CSS3.png) ![Bootstrap](images/BOOTSTRAP.png)  ![TypeScript](images/TYPESCRIPT.png) 
-![javascript](images/JAVASCRIPT.png) ![Jquery](images/JQUERY.png) ![React](images/REACT.png) ![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png) ![NPM](images/NPM.png) ![Git](images/GIT.png) ![Github](images/GITHUB.png)
+![javascript](images/JAVASCRIPT.png) ![Jquery](images/JQUERY.png) ![React](images/REACT.png)
+![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png) ![NPM](images/NPM.png)
+![Git](images/GIT.png)  ![Github](images/GITHUB.png)
 
 ### 🤝🏻 Connect with Me
 
