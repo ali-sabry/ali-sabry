@@ -21,7 +21,7 @@ coding to a talented engineering team to develop quality solutions.
 <img src="images/LINKEDIN.png">
 </a>
 
-<a href="https://www.twitter.com/">
+<a href="https://www.twitter.com/alisabry__">
 <img src="images/TWITTER.png">
 </a>
 
