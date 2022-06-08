@@ -1,8 +1,8 @@
 ###   Hi <img src="images/Hi.gif" width="20"> 
 
-- 🔭 I’m a Front End Web Development with a passion for both personal.
-- 🥰 passion for both personal growth and software development.
-- 💻 Develop Front End Interactive Face.
+- 🔭 I’m a Front End React Developer Work On User Interfaces.
+- 🥰 Passion About Personal Growth And Software Development.
+- 💻 Develop Front End Complex Projects.
 - 📝 Write Clean And Readable Code.
 - 🎓 Learn New Things Every Day.
 
