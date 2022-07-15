@@ -15,6 +15,13 @@ coding to a talented engineering team to develop quality solutions.
 ![Git](images/GITV.png)  ![Github](images/GITHUB.png)  ![NPM](images/NPM.png)
 ![VisualStudioCode](images/VISUALSTUDIO.png) ![Atom](images/ATOM.png)
 
+
+### Github Statistics 📶 :  
+| Most Used Languages | Account Status |
+| ------------------- | ------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sabry&theme=gruvbox ) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-sabry&theme=gruvbox )](https://github.com/ali-sabry) |
+
+
 ### 🤝🏻 Connect with Me
 
 <a href="https://www.linkedin.com/in/ali-sabry/">
